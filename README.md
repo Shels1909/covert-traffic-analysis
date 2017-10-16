@@ -1,5 +1,5 @@
 # covert-traffic-analysis
 
-From a pcap file determines which src IP in the traffic is sending covert traffic
+From a pcap file determine which IP is sending covert traffic
 
 Mac Knight
